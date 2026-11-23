@@ -42,3 +42,21 @@
 - Explain client and server roles in a database system.
 
 **Progress note:** Second lesson reported as completed. Exercises and practical proficiency have not yet been independently assessed.
+
+## 2026-11-23 — SQL fundamentals, lesson 3: aggregation
+
+**Study material:** Six lesson screenshots, including an example query using the `orders` table.
+
+**Topics covered:**
+- Reviewing `SELECT`, `FROM` and the semicolon statement terminator.
+- Summarizing rows with aggregate functions.
+- Using `SUM()`, `AVG()`, `MIN()`, `MAX()`, and `COUNT()`.
+- Counting unique values using `COUNT(DISTINCT column)`.
+- Combining multiple summary metrics in a single query with descriptive `AS` aliases.
+- Planning an aggregation by deciding which column and which operation answer the analytical question.
+
+**Notes and example query:** [SQL Fundamentals — Aggregate Functions](01-SQL/2026-11-23-aggregate-functions.md).
+
+**Next practice goals:** Write a multi-metric summary query without prompts and explain the meaning of each metric.
+
+**Progress note:** Lesson reported as completed; independent proficiency and study duration have not been verified.
