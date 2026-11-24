@@ -60,3 +60,24 @@
 **Next practice goals:** Write a multi-metric summary query without prompts and explain the meaning of each metric.
 
 **Progress note:** Lesson reported as completed; independent proficiency and study duration have not been verified.
+
+## 2026-11-24 — SQL fundamentals, lesson 4: GROUP BY
+
+**Study material:** Thirteen screenshots from the grouped aggregation lesson.
+
+**Topics covered:**
+- Comparing overall aggregation with grouped aggregation.
+- Using `GROUP BY` to calculate metrics for each unique category.
+- Combining `COUNT()`, `COUNT(DISTINCT ...)`, `SUM()` and `AVG()` with grouping.
+- Sorting grouped results using `ORDER BY` and `DESC`.
+- Analyzing order categories and trip types with grouped summary metrics.
+- Understanding the Split–Apply–Combine concept.
+- Using `SELECT DISTINCT` to inspect available grouping categories.
+- Planning aggregations by selecting grouping fields, measured fields and aggregate functions.
+- Writing SQL clauses in the correct order: `SELECT`, `FROM`, `GROUP BY`, `ORDER BY`.
+
+**Notes and examples:** [SQL Fundamentals — GROUP BY and Grouped Aggregation](01-SQL/2026-11-24-group-by-aggregation.md).
+
+**Next practice goals:** Independently calculate revenue, order count and average amount by category, sort the results by revenue, and explain the purpose of grouping.
+
+**Progress note:** Lesson reported as completed. Independent exercises and study duration have not been verified.
