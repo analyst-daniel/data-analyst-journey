@@ -81,3 +81,24 @@
 **Next practice goals:** Independently calculate revenue, order count and average amount by category, sort the results by revenue, and explain the purpose of grouping.
 
 **Progress note:** Lesson reported as completed. Independent exercises and study duration have not been verified.
+
+## 2026-11-25 — SQL fundamentals, lesson 5: multi-column grouping and sorting
+
+**Study material:** Seventeen screenshots covering multi-dimensional aggregation and result interpretation.
+
+**Topics covered:**
+- Grouping by more than one column, including `category` and `location`.
+- Using multiple selected dimensions and the positional `GROUP BY 1, 2` syntax.
+- Comparing detailed five-dimension grouping to simpler category-level summaries.
+- Recognizing that excessive grouping can produce many rows and small sample sizes.
+- Checking counts alongside aggregate metrics to assess reliability.
+- Investigating missing category/location combinations instead of assuming zero demand.
+- Sorting by multiple fields, with the first `ORDER BY` expression taking priority.
+- Comparing revenue within locations using `ORDER BY location, revenue DESC`.
+- Analyzing average fares and trip counts by city and ride type.
+
+**Notes and query examples:** [SQL Fundamentals — Lesson 5](01-SQL/2026-11-25-multi-column-grouping-and-sorting.md).
+
+**Next practice goals:** Build two-dimensional summaries, compare `ORDER BY` priorities, and explain how small or missing groups affect the interpretation of metrics.
+
+**Progress note:** Lesson reported as completed; independent exercises and study duration have not been verified.
