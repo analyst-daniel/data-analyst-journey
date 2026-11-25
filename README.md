@@ -10,6 +10,8 @@ A learning journal documenting my progress from SQL fundamentals toward becoming
 
 - [2026-11-24 — SQL fundamentals, lesson 4: GROUP BY and grouped aggregation](learning-log.md#2026-11-24--sql-fundamentals-lesson-4-group-by)
 
+- [2026-11-25 — SQL fundamentals, lesson 5: multi-column grouping and sorting](learning-log.md#2026-11-25--sql-fundamentals-lesson-5-multi-column-grouping-and-sorting)
+
 ## Topics
 - [SQL — Lesson 1](01-SQL/2026-11-22-sql-fundamentals.md)
 - [SQL — Lesson 2](01-SQL/2026-11-22-sql-fundamentals-lesson-2.md)
@@ -17,6 +19,8 @@ A learning journal documenting my progress from SQL fundamentals toward becoming
 - [SQL — Lesson 3: Aggregate Functions](01-SQL/2026-11-23-aggregate-functions.md)
 
 - [SQL — Lesson 4: GROUP BY and Grouped Aggregation](01-SQL/2026-11-24-group-by-aggregation.md)
+
+- [SQL — Lesson 5: Multi-Column Grouping and Sorting](01-SQL/2026-11-25-multi-column-grouping-and-sorting.md)
 
 ## How I document progress
 Each entry records the topics covered, key syntax, and what to practice next. Exercises and independent projects will be added as I complete them.
